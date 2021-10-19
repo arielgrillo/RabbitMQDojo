@@ -27,6 +27,7 @@ namespace RabbitMQ.Consumer
             Console.WriteLine("Consumer started");
             Console.ReadLine();
             //un comentario
+            //dos comentarios
 
         }
     }
