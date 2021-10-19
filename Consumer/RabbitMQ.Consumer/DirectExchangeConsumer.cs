@@ -26,6 +26,7 @@ namespace RabbitMQ.Consumer
             channel.BasicConsume("demo-direct-queue", true, consumer);
             Console.WriteLine("Consumer started");
             Console.ReadLine();
+            //un comentario
 
         }
     }
